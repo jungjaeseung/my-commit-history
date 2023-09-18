@@ -1,2 +1,2 @@
 console.log("ynalh")
-console.log("cjntq")
+console.log("yenft")
