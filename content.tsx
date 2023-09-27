@@ -1,2 +1,2 @@
 console.log("pgbih")
-console.log("kucgd")
+console.log("bolak")
