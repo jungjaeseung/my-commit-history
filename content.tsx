@@ -1,1 +1,1 @@
-console.log("taqmq")
+console.log("wgtln")
