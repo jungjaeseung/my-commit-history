@@ -1,1 +1,1 @@
-console.log("tipoj")
+console.log("dwgtu")
