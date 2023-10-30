@@ -1,1 +1,1 @@
-console.log("myruy")
+console.log("tipoj")
