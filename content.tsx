@@ -1,3 +1,3 @@
 console.log("olggh")
 console.log("qtlts")
-console.log("ooqib")
+console.log("mykny")
